@@ -11,7 +11,7 @@ require (
 	github.com/ProtonMail/go-crypto v1.5.2
 	github.com/cosiner/argv v0.1.0
 	github.com/docker/cli v29.9.2+incompatible
-	github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.0.5
+	github.com/dropbox/dropbox-sdk-go-unofficial/v6 v6.6.3
 	github.com/gofrs/flock v0.13.1
 	github.com/joho/godotenv v1.5.1
 	github.com/klauspost/compress v1.20.3
